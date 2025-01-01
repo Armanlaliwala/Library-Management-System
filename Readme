@@ -1,0 +1,22 @@
+# Library Management System
+
+## Overview
+
+The Library Management System is a Python project designed to manage books in a library. It allows users to add books, count the total number of books, and display the list of books. This project demonstrates the practical implementation of Object-Oriented Programming (OOP) concepts, making it a great learning tool for Python developers.
+
+---
+
+## Features
+
+- **Add Books**: Add new books to the library.
+- **Display Books**: View the complete list of books in the library.
+- **Count Books**: Check the total number of books available in the library.
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.x installed on your machine.
+- Basic knowledge of Python and OOP concepts.
